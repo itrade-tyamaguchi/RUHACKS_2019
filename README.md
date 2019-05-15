@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=YUBt0ogHJ1k
 
 With a powerful network of over 5,000 food and beverage trading partners, iTradeNetwork has been the leader in perishables supply chain management for 20 years. iTrade’s suite of end-to-end supply chain solutions tackles the complexities that occur at all waypoints of the perishables supply chain, from procurement and quality to traceability and spend management, so that you can focus on your core business.
 ## The Freshest Hack Challenge
-The team that demonstrates and executes the most innovative feature, concept or module that could be applied to one of the products we present (Fresh and Trace) will win a prize! The feature, concept or module does not need to represent the entirety of your hackathon project, but it should be inspired by, or a functional piece of, your larger hackathon project.
+The team that demonstrates and executes the most innovative feature, concept or module that could be applied to one of the products we present will win a prize! The feature, concept or module does not need to represent the entirety of your hackathon project, but it should be inspired by, or a functional piece of, your larger hackathon project.
 ## Judging Criteria
 * Innovation: How unique is your idea?
 * Return on Investment: What is the business reasoning for your idea?
