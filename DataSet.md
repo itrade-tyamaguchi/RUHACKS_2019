@@ -1,3 +1,5 @@
+# **To get the dataset please see the Slack channel**
+
 # Definitions
 * BUYERID - Unique ID Number for the Buyer
 * SELLERID - Unique ID Number for the Seller
