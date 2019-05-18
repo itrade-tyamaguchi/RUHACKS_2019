@@ -16,7 +16,7 @@
 * Unassigned CATEGORYNAME is due to the fact, it's not a required box to check
 * CATEGORYNAME "EDI", treat as unassigned
 
-# Goals
+# Goals - **NON-EXHAUSTIVE AND NOT MANDATORY**
 ## Determine:
 * Anomaly Detection for mis-catagorized DISPLAY_DESCRIPTION greater than 2 sigma
 * Anomaly Detection for Total_Qty variance by product greater than 2 sigma
